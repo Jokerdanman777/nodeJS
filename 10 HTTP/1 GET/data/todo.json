@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "title": "Learn JS",
+        "completed": true
+    },
+    {
+        "id": 2,
+        "title": "Learn Node.js",
+        "completed": true
+    },
+    {
+        "id": 3,
+        "title": "Сгенерируй новогоднее настроение",
+        "completed": false
+    },
+    {
+        "id": 4,
+        "title": "shut your mouth",
+        "completed": false
+    }
+]

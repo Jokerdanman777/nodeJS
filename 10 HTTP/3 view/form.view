@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Node.js Lesson</title>
+    <link rel="stylesheet" type="text/css" href="app.css">
+</head>
+<body>
+    <form method="post" action="/">
+        <div><input type="text" name="title"></div>
+        <div><textarea type="password" name="content"></textarea></div>
+        <div><button type="submit">Create</button></div>
+    </form>
+</body>
+</html>
