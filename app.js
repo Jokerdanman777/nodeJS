@@ -24,7 +24,7 @@ app.post('/reverse', (req, res) => {
     let original = req.body.string;
     let reversed = reverseString(original);
     
-    res.render('reverse', { reversed });
+    res.render('reverse', { original, reversed });
 });
 
 app.use((req, res, next) => {
